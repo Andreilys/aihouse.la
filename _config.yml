@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://nerdnight.fun
-title: Nerd Night
+url: http://aihouse.la
+title: AI House
 email: andreilyskov@gmail.com
 author: Andrei Lyskov
 description: > # "Write an awesome description for your new site here. 
-  Nerd Night is a community for curious minds interested in learning.
+  AI House is a Community For AI Builders and Creators
 copyright: 'Copyright &copy; 2022 Andrei Lyskov. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -31,5 +31,5 @@ social:
     #url: 
     #- title: instagram
     #url: 
-  - title: Host or Speak
+  - title: Apply
     url: https://forms.gle/hhFoToCSyrnT2SZ69
